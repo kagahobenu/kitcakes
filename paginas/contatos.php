@@ -39,9 +39,9 @@
             </form>
         </div>
     </nav>
-</div>
-<h3 class="text-center">Contatos</h3>
+    <h3 class="text-center">Contatos</h3>
 
-<--Código do botão enviar pedido.-->
-<a href="?pg=obrigado" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Link primário</a>
-<--Código do botão enviar pedido.-->
+    <--Código do botão enviar pedido.-->
+    <a href="?pg=obrigado" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Link primário</a>
+    <--Código do botão enviar pedido.-->
+</div>

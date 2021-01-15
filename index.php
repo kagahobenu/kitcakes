@@ -21,7 +21,7 @@ if ($pg) {
 
            
             include_once 'paginas/contatos.php';
-            include_once 'paginas/includes/footer.php';
+            
 
             break;
 

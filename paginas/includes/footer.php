@@ -1,31 +1,75 @@
-<footer>
-    <div class="container">
-        <div class="row text-center">
-            <div class="col">
-                <ul class="list-group rodape">
-                    <li class="list-group-item"><a class="arredondado btn-info btn-block  px-5 p-2" href="">Cras justo odio</a></li>
-                    <li class="list-group-item"><a class="arredondado btn-info btn-block  px-5 p-2" href="">Cras justo odio</a></li>
-                    <li class="list-group-item"><a class="arredondado btn-info btn-block  px-5 p-2" href="">Cras justo odio</a></li>
-                    <li class="list-group-item"><a class="arredondado btn-info btn-block  px-5 p-2" href="">Cras justo odio</a></li>
-                </ul>
-            </div>
-            <div class="col py-5">
-                <img class="img-fluid img-thumbnail arredondado"src="https://www.placehold.it/70x70" alt="">
-                <h5>Kit Cakes</h5>
-                <small>&copy Todos os direitos reservados</small>
-            </div>
-            <div class="col">
-                <ul class="list-group rodape">
-                    <li class="list-group-item"><a class="arredondado btn-info btn-block  px-5 p-2" href="">Cras justo odio</a></li>
-                    <li class="list-group-item"><a class="arredondado btn-info btn-block  px-5 p-2" href="">Cras justo odio</a></li>
-                    <li class="list-group-item"><a class="arredondado btn-info btn-block  px-5 p-2" href="">Cras justo odio</a></li>
-                    <li class="list-group-item"><a class="arredondado btn-info btn-block  px-5 p-2" href="">Cras justo odio</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
+<!-- Footer -->
+<footer class="bg-light text-center text-lg-start">
+    <!-- Grid container -->
+    <div class="container p-4">
+        <!--Grid row-->
+        <div class="row">
+            <!--Grid column-->
+            <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+                <h5 class="text-uppercase">Footer Content</h5>
 
+                <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste atque ea quis
+                    molestias. Fugiat pariatur maxime quis culpa corporis vitae repudiandae aliquam
+                    voluptatem veniam, est atque cumque eum delectus sint!
+                </p>
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                <h5 class="text-uppercase">Links</h5>
+
+                <ul class="list-unstyled mb-0">
+                    <li>
+                        <a href="#!" class="text-dark">Link 1</a>
+                    </li>
+                    <li>
+                        <a href="#!" class="text-dark">Link 2</a>
+                    </li>
+                    <li>
+                        <a href="#!" class="text-dark">Link 3</a>
+                    </li>
+                    <li>
+                        <a href="#!" class="text-dark">Link 4</a>
+                    </li>
+                </ul>
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                <h5 class="text-uppercase mb-0">Links</h5>
+
+                <ul class="list-unstyled">
+                    <li>
+                        <a href="#!" class="text-dark">Link 1</a>
+                    </li>
+                    <li>
+                        <a href="#!" class="text-dark">Link 2</a>
+                    </li>
+                    <li>
+                        <a href="#!" class="text-dark">Link 3</a>
+                    </li>
+                    <li>
+                        <a href="#!" class="text-dark">Link 4</a>
+                    </li>
+                </ul>
+            </div>
+            <!--Grid column-->
+        </div>
+        <!--Grid row-->
+    </div>
+    <!-- Grid container -->
+
+    <!-- Copyright -->
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
+        © 2020 Copyright:
+        <a class="text-dark" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+    </div>
+    <!-- Copyright -->
 </footer>
+<!-- Footer -->
 
 <!--Scripts JS-->
 <!--JQuery-->
