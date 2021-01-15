@@ -3,8 +3,8 @@
 <link rel="stylesheet" href="assets/css/header.css" />
 <link rel="stylesheet" href="assets/css/kitcakes.css" />
 
-<nav class="navbar navbar-expand-lg navbar-dark vini">
-    <div class="container">
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-dark vini">
 
         <a class="navbar-brand" href="#">
             <img src="assets/img/logo-branco.png" width="100" height="100" class="d-inline-block align-top" alt="">
@@ -38,8 +38,8 @@
                 </ul>
             </form>
         </div>
-    </div>
-</nav>
+    </nav>
+</div>
 <h3 class="text-center">Contatos</h3>
 
 <--Código do botão enviar pedido.-->
